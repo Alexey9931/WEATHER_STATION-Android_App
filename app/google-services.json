@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "789979660652",
+    "firebase_url": "https://home-weather-station-43ffd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "home-weather-station-43ffd",
+    "storage_bucket": "home-weather-station-43ffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789979660652:android:99bda19402a58c6ab7f349",
+        "android_client_info": {
+          "package_name": "com.example.weatherstation10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789979660652-qdk3t1tsgpmlsv7lvt66vso2n92r9ai4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgiejJoq2E1ydTvEYgn7DwncMB_oGyDOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789979660652-qdk3t1tsgpmlsv7lvt66vso2n92r9ai4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789979660652:android:c676f32243b67c91b7f349",
+        "android_client_info": {
+          "package_name": "com.example.weatherstation11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789979660652-qdk3t1tsgpmlsv7lvt66vso2n92r9ai4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgiejJoq2E1ydTvEYgn7DwncMB_oGyDOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789979660652-qdk3t1tsgpmlsv7lvt66vso2n92r9ai4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
